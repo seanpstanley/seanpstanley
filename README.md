@@ -4,12 +4,12 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
   <a href="https://linkedin.com/in/seanpstanley">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
+  <br />
   <a href="https://myanimelist.net/profile/seananimeguy">
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList badge">
   </a>
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpstanley&theme=gruvbox_light&show_icons=true)
-<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpstanley&layout=compact&theme=gruvbox_light)
 
 ### About Me
