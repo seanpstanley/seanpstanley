@@ -1,6 +1,12 @@
 ## Hey, I'm Sean.
 I'm a 25-year-old software engineer with passions for movies and frontend development--but _mainly_ for movies.
 
+<p align="center">
+  <a href="https://linkedin.com/in/seanpstanley">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
+  </a>
+</p>
+
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpstanley&theme=gruvbox_light&show_icons=true)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpstanley&layout=compact&theme=gruvbox_light)
