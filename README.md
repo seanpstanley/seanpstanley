@@ -1,7 +1,8 @@
 ## Hey, I'm Sean.
 I'm a 25-year-old software engineer with passions for movies and frontend development--but _mainly_ for movies.
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpstanley&theme=gruvbox_light&show_icons=true)
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpstanley&theme=gruvbox_light&show_icons=true)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpstanley&layout=compact&theme=gruvbox_light)
 
 ### About Me
