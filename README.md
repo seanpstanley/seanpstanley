@@ -1,21 +1,18 @@
-## Hi there 👋
+## Hey, I'm Sean.
+I'm a 25-year-old software engineer with passions for movies and frontend development. Mainly for movies.
 
-👋 Hi, I'm Sean Stanley!
-
-I'm a 25-year-old software engineer with a passion for movies and frontend development. Welcome to my GitHub profile!
-
-About Me
+## About Me
 🎥 Movie enthusiast: I love watching and discussing films. Feel free to recommend me your favorites!
 💻 Frontend Developer: I specialize in creating intuitive and dynamic user interfaces.
-🌱 Lifelong Learner: Always exploring new technologies and best practices in web development.
-My Tech Stack
+
+## My Tech Stack
 Languages: JavaScript, TypeScript, HTML, CSS
-Frameworks & Libraries: React, Vue.js, Angular
-Tools: Git, Webpack, Babel, npm/yarn
-Design: Figma, Adobe XD, Sketch
-Projects
-Project 1: Movie Finder
-A web application to search and discover movies. Built with React and the OMDb API.
+Frameworks & Libraries: React, Next.js, Tailwind CSS
+Design: Figma
+
+## Projects
+  - Brewd - A Social Coffee Experience
+      Currently brewing. Brewd is a coffee-rating webapp that helps users discover, rate, and share their coffee experiences, inspired by platforms like Letterboxd, Untappd, and Backloggd.
 
 Project 2: Portfolio Website
 My personal portfolio showcasing my projects and skills. Developed using HTML, CSS, and JavaScript.
