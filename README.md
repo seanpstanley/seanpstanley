@@ -15,8 +15,8 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpstanley&layout=compact&theme=gruvbox_light)
 
 ### About Me
-🎥 Movie enthusiast: I love watching and discussing films. Feel free to recommend me your favorites!
-💻 Frontend Developer: I specialize in creating intuitive and dynamic user interfaces.
+- 🎥 **"Cinephile"**: 
+- 💻 Frontend Developer: My focus is on creating appealing, intuitive, and accessible user interfaces for interesting projects.
 
 ### My Tech Stack
 - **Languages**: JavaScript, TypeScript, HTML, CSS
