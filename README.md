@@ -5,7 +5,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
   <a href="https://linkedin.com/in/seanpstanley">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
-  <a href="https://letterboxd.com/spstanley/">
+  <a href="https://myanimelist.net/profile/seananimeguy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
 </p>
@@ -15,8 +15,8 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpstanley&layout=compact&theme=gruvbox_light)
 
 ### About Me
-- 🎥 **"Cinephile"**: 
-- 💻 Frontend Developer: My focus is on creating appealing, intuitive, and accessible user interfaces for interesting projects.
+- 🎥 **"Cinephile"**: I love all kinds of movies. Happy movies, sad movies, good movies, bad movies.
+- 💻 **Frontend Developer**: My focus is on creating appealing, intuitive, and accessible user interfaces for interesting projects.
 
 ### My Tech Stack
 - **Languages**: JavaScript, TypeScript, HTML, CSS
@@ -24,7 +24,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
 - **Design**: Figma
 
 ### Projects
-  - ☕️ [**Brewd**](https://brewd.org/) - A Social Coffee Experience
+  - ☕️ [**Brewd -  A Social Coffee Experience**](https://brewd.org/)
       - Currently brewing. Brewd is a coffee-rating webapp that helps users discover, rate, and share their coffee experiences, inspired by platforms like Letterboxd, Untappd, and Backloggd.
   - 📃 [**Portfolio Website**](https://seanpstanley.dev/)
       - My personal portfolio showcasing my projects and skills. Developed using Next.js, Tailwind CSS, and TypeScript.
