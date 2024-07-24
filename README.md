@@ -1,27 +1,27 @@
 ## Hey, I'm Sean.
-I'm a 25-year-old software engineer with passions for movies and frontend development--but mainly for movies.
+I'm a 25-year-old software engineer with passions for movies and frontend development--but _mainly_ for movies.
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpstanley)](https://github.com/seanpstanley/github-readme-stats)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanpstanley)](https://github-readme-stats.vercel.app/api?username=seanpstanley&theme=gruvbox_light&show_icons=true)
 
 ### About Me
 🎥 Movie enthusiast: I love watching and discussing films. Feel free to recommend me your favorites!
 💻 Frontend Developer: I specialize in creating intuitive and dynamic user interfaces.
 
 ### My Tech Stack
-Languages: JavaScript, TypeScript, HTML, CSS
-Frameworks & Libraries: React, Next.js, Tailwind CSS
-Design: Figma
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks** & Libraries: React, Next.js, Tailwind CSS
+- **Design**: Figma
 
 ### Projects
-  - ☕️ Brewd - A Social Coffee Experience
-      Currently brewing. Brewd is a coffee-rating webapp that helps users discover, rate, and share their coffee experiences, inspired by platforms like Letterboxd, Untappd, and Backloggd.
-  - 📃 Portfolio Website
-      My personal portfolio showcasing my projects and skills. Developed using Next.js, Tailwind CSS, and TypeScript.
+  - ☕️ [**Brewd**](https://brewd.org/) - A Social Coffee Experience
+      - Currently brewing. Brewd is a coffee-rating webapp that helps users discover, rate, and share their coffee experiences, inspired by platforms like Letterboxd, Untappd, and Backloggd.
+  - 📃 [**Portfolio Website**](https://seanpstanley.dev/)
+      - My personal portfolio showcasing my projects and skills. Developed using Next.js, Tailwind CSS, and TypeScript.
 
 ### Get in Touch
-📧 Email: seans09comp@gmail.com
-💼 LinkedIn: [linkedin.com/in/sean-stanley](https://www.linkedin.com/in/seanpstanley/)
- Letterboxd: [spstanley](https://letterboxd.com/spstanley/)
+- 📧 **Email**: seans09comp@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/sean-stanley](https://www.linkedin.com/in/seanpstanley/)
+- **Letterboxd**: [letterboxd.com/spstanley](https://letterboxd.com/spstanley/)
 
 <!--
 **seanpstanley/seanpstanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
