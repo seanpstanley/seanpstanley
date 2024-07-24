@@ -13,7 +13,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanpstanley&layout=compact&theme=gruvbox_light)
 
 ### About Me
-- 🎥 **"Cinephile"**: I love all kinds of movies. Happy movies, sad movies, good movies, bad movies.
+- 🎬 **"Cinephile"**: I love all kinds of movies. Happy movies, sad movies, good movies, bad movies.
 - 💻 **Frontend Developer**: My focus is on creating appealing, intuitive, and accessible user interfaces for interesting projects.
 
 ### My Tech Stack
@@ -30,7 +30,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
 ### Get in Touch
 - 📧 **Email**: seans09comp@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/sean-stanley](https://www.linkedin.com/in/seanpstanley/)
-- **Letterboxd**: [letterboxd.com/spstanley](https://letterboxd.com/spstanley/)
+- 🎥 **Letterboxd**: [letterboxd.com/spstanley](https://letterboxd.com/spstanley/)
 
 <!--
 **seanpstanley/seanpstanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
