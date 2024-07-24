@@ -13,18 +13,15 @@ Frameworks & Libraries: React, Next.js, Tailwind CSS
 Design: Figma
 
 ### Projects
-  - Brewd - A Social Coffee Experience
+  - ☕️ Brewd - A Social Coffee Experience
       Currently brewing. Brewd is a coffee-rating webapp that helps users discover, rate, and share their coffee experiences, inspired by platforms like Letterboxd, Untappd, and Backloggd.
-  - Portfolio Website
+  - 📃 Portfolio Website
       My personal portfolio showcasing my projects and skills. Developed using Next.js, Tailwind CSS, and TypeScript.
 
-###Get in Touch
+### Get in Touch
 📧 Email: seans09comp@gmail.com
 💼 LinkedIn: [linkedin.com/in/sean-stanley](https://www.linkedin.com/in/seanpstanley/)
-🐦 Letterboxd: [spstanley](https://letterboxd.com/spstanley/)
-
-Fun Fact
-
+ Letterboxd: [spstanley](https://letterboxd.com/spstanley/)
 
 <!--
 **seanpstanley/seanpstanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
