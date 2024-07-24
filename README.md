@@ -4,7 +4,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
   <a href="https://linkedin.com/in/seanpstanley">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
   </a>
-  | 
+  <br />
   <a href="https://myanimelist.net/profile/seananimeguy">
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList badge">
   </a>
