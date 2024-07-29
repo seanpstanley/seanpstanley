@@ -15,6 +15,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
 ### About Me
 - 🎬 **"Cinephile"**: I love all kinds of movies. Happy movies, sad movies, good movies, bad movies.
 - 💻 **Frontend Developer**: My focus is on creating appealing, intuitive, and accessible user interfaces for interesting projects.
+- 🎮 **Guy Who Plays Video Games**: I try not to identify myself as "a gamer."
 
 ### My Tech Stack
 - **Languages**: JavaScript, TypeScript, HTML, CSS
