@@ -19,7 +19,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
 
 ### My Tech Stack
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks** & Libraries: React, Next.js, Tailwind CSS
+- **Frameworks & Libraries**: React, Next.js, Tailwind CSS
 - **Design**: Figma
 
 ### Projects
