@@ -8,7 +8,7 @@ I'm a 25-year-old software engineer with passions for movies and frontend develo
     <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MyAnimeList badge">
   </a>
 
-![Sean's GitHub stats](https://github-readme-stats-seanpstanleys-projects.vercel.app/api?username=seanpstanley&theme=gruvbox_light&show_icons=true)
+![Sean's GitHub stats](https://github-readme-stats-seanpstanleys-projects.vercel.app/api?username=seanpstanley&theme=gruvbox_light&show_icons=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats-seanpstanleys-projects.vercel.app/api/top-langs/?username=seanpstanley&layout=compact&theme=gruvbox_light&exclude_repo=github-readme-stats,GameProject)
 
 ### About Me
