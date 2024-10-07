@@ -1,5 +1,5 @@
 ## Hey, I'm Sean.
-I'm a 25-year-old software engineer with passions for movies and frontend development--but _mainly_ for movies.
+I'm a 26-year-old software engineer with passions for movies and frontend development--but _mainly_ for movies.
 
   <a href="https://linkedin.com/in/seanpstanley">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge">
